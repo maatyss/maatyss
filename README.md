@@ -29,6 +29,14 @@ Je me suis un peu perdu après ça, mais je me suis vite retrouvé en passant un
 
 Je bosse actuellement sur un outil / une extension au produit <https://cloud.boxydev.com> dévelopé par [Boxydev](https://https://boxydev.com/).  
 
+**HI !**  
+Welcome on my GitHub Profile !  
+I like everything closely or distantly related to Tech.  
+I fell into this world when my neighboor showed me what he was working on during his IUT.  
+I have choosen ISN[^1en] specialisation for my Baccalauréat.  
+I have kind of lost myself for a few years before returning and successfully obtaining TP DWWM[^2en].  
+
+I'm currently working on a [Cloud](https://cloud.boxydev.com/)[^3en]'s extension !
 ___
 
 ## CONTACT ZONE
@@ -44,3 +52,6 @@ Here are some useful links to contact me !
 [^1]: Informatique et Science du Numérique  
 [^2]: ~~(j'ai eu 19 🙄)~~  
 [^3]: Développeur Web et Web Mobile  
+[^1en]: Computer and Digital Science  
+[^2en]: Professional Title Web and Mobile Web Developer  
+[^3en]: A [Boxydev](https://https://boxydev.com/) product
