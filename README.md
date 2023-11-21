@@ -21,13 +21,13 @@ ___
 
 ## PRESENTATION
 
-**Hey !**  
+**HEY !**  
 Moi c'est Mathys, j'adore tout ce qui touche à la tech de près ou de loin.  
-Je suis rentré dans le monde du dev en seconde quand mon voison m'a fait découvrir ce qu'il faisait en IUT.  
+Je suis rentré dans le monde du dev en seconde quand mon voisin m'a fait découvrir ce qu'il faisait en IUT.  
 J'ai pris la Spé ISN[^1] pour mon BAC S[^2].  
 Je me suis un peu perdu après ça, mais je me suis vite retrouvé en passant un Titre Professionnel DWWM[^3] obtenu avec succès !  
 
-Je bosse actuellement sur un outil / une extension au produit [Cloud](https://cloud.boxydev.com/) dévelopé par [Boxydev](https://https://boxydev.com/).  
+Je bosse actuellement sur un outil / une extension au produit <https://cloud.boxydev.com> dévelopé par [Boxydev](https://https://boxydev.com/).  
 
 ___
 
