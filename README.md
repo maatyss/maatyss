@@ -43,6 +43,6 @@ Here are some useful links to contact me !
 
 
 ___
-[^1] : Informatique et Science du Numérique  
-[^2] : ~~(j'ai eu 19 🙄)~~  
-[^3] : Développeur Web et Web Mobile  
+[^1]: Informatique et Science du Numérique  
+[^2]: ~~(j'ai eu 19 🙄)~~  
+[^3]: Développeur Web et Web Mobile  
