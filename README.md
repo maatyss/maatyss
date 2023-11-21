@@ -33,7 +33,7 @@ Je bosse actuellement sur un outil / une extension au produit [Cloud](https://cl
 
 ___
 
-### CONTACT ZONE
+## CONTACT ZONE
 
 Voici quelques liens utiles pour prendre contact avec moi !  
 Here are some useful links to contact me !
